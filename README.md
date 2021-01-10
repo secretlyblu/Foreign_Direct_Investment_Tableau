@@ -1,5 +1,5 @@
 # Foreign_Direct_Investment_Tableau
-Using **Tableau Public** to identify viable investment options. **See the visuals [here]().**
+Using **Tableau Public** to identify viable investment options. **See the visuals [here](https://public.tableau.com/views/FDIDATA_16102557873300/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)**.
 
 ## Data
 Data range 2000-2016 on sectors and direct investment vaules.
@@ -10,9 +10,9 @@ Data range 2000-2016 on sectors and direct investment vaules.
  ![](FDI%20Images/Max%20FDI.png)           ![](FDI%20Images/Min%20FDI.png)
  
 ### Is there a trend for direct investments for individual sectors?
-**You will be able to toggle through the industries [here]().**
+**You will be able to toggle through the industries [here](https://public.tableau.com/views/FDIDATA_16102557873300/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link).**
 
-See the image[Overall Trends](FDI%20Images/Overall%20Trends.png). 
+See the image [Overall Trends](FDI%20Images/Overall%20Trends.png). 
 
 ### What sector reported the highest growth in the past 5 years? Lowest?
 
@@ -23,18 +23,18 @@ See the image[Overall Trends](FDI%20Images/Overall%20Trends.png).
 See the image [Variation](FDI%20Images/Variation.png). 
 
 ### What is the proportion of investment between sectors from the FDI perspective?
-**You will be able to toggle through the industries [here]().**
+**You will be able to toggle through the industries [here](https://public.tableau.com/views/FDIDATA_16102557873300/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)**.
 
 See the image [Proportion of FDI](FDI%20Images/Proportion%20of%20FDI.png).
 
 ### Are there any specific clusters present in the data?
 
-See the image [Clusters](FDI%20Images/Clusters.png)
+See the image [Clusters](FDI%20Images/Clusters.png).
 
 ### Can we forcast the trend for the following year?
-**You will be able to toggle through the industries [here]().**
+**You will be able to toggle through the industries [here](https://public.tableau.com/views/FDIDATA_16102557873300/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)**.
 
-See the image [Forcasting](FDI%20Images/Forcasting.png)
+See the image [Forcasting](FDI%20Images/Forcasting.png).
 
 ## Business Insights
 
