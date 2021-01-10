@@ -4,6 +4,9 @@
 
 ## Questions
 - Which sector received maximum direct funding for a given year? Minimum?
+
+ ![](FDI%20Images/Max%20FDI.png)           ![](FDI%20Images/Min%20FDI.png)
+ 
 - Is there a trend for direct investments for individual sectors?
 - In What fashion can sectors be grouped for comparison?
 - What sector reported the highest growth in the past 5 years? Lowest?
